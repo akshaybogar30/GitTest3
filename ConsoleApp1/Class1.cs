@@ -7,6 +7,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        int a = 1;
+        int b = 1;
     }
 }
